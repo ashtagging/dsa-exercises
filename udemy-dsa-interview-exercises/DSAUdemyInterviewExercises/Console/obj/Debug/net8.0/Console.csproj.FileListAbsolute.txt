@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Coding\dsa-exercises\udemy-dsa-interview-exercises\DSAUdemyInterviewExercises\Console\bin\Debug\net8.0\Console.exe
+C:\Users\User\OneDrive\Coding\dsa-exercises\udemy-dsa-interview-exercises\DSAUdemyInterviewExercises\Console\bin\Debug\net8.0\Console.deps.json
+C:\Users\User\OneDrive\Coding\dsa-exercises\udemy-dsa-interview-exercises\DSAUdemyInterviewExercises\Console\bin\Debug\net8.0\Console.runtimeconfig.json
+C:\Users\User\OneDrive\Coding\dsa-exercises\udemy-dsa-interview-exercises\DSAUdemyInterviewExercises\Console\bin\Debug\net8.0\Console.dll
+C:\Users\User\OneDrive\Coding\dsa-exercises\udemy-dsa-interview-exercises\DSAUdemyInterviewExercises\Console\bin\Debug\net8.0\Console.pdb
+C:\Users\User\OneDrive\Coding\dsa-exercises\udemy-dsa-interview-exercises\DSAUdemyInterviewExercises\Console\obj\Debug\net8.0\Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Coding\dsa-exercises\udemy-dsa-interview-exercises\DSAUdemyInterviewExercises\Console\obj\Debug\net8.0\Console.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Coding\dsa-exercises\udemy-dsa-interview-exercises\DSAUdemyInterviewExercises\Console\obj\Debug\net8.0\Console.AssemblyInfo.cs
+C:\Users\User\OneDrive\Coding\dsa-exercises\udemy-dsa-interview-exercises\DSAUdemyInterviewExercises\Console\obj\Debug\net8.0\Console.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Coding\dsa-exercises\udemy-dsa-interview-exercises\DSAUdemyInterviewExercises\Console\obj\Debug\net8.0\Console.sourcelink.json
+C:\Users\User\OneDrive\Coding\dsa-exercises\udemy-dsa-interview-exercises\DSAUdemyInterviewExercises\Console\obj\Debug\net8.0\Console.dll
+C:\Users\User\OneDrive\Coding\dsa-exercises\udemy-dsa-interview-exercises\DSAUdemyInterviewExercises\Console\obj\Debug\net8.0\refint\Console.dll
+C:\Users\User\OneDrive\Coding\dsa-exercises\udemy-dsa-interview-exercises\DSAUdemyInterviewExercises\Console\obj\Debug\net8.0\Console.pdb
+C:\Users\User\OneDrive\Coding\dsa-exercises\udemy-dsa-interview-exercises\DSAUdemyInterviewExercises\Console\obj\Debug\net8.0\Console.genruntimeconfig.cache
+C:\Users\User\OneDrive\Coding\dsa-exercises\udemy-dsa-interview-exercises\DSAUdemyInterviewExercises\Console\obj\Debug\net8.0\ref\Console.dll

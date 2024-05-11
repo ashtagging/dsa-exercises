@@ -1,0 +1,12 @@
+C:\Users\User\OneDrive\Coding\dsa-exercises\udemy-dsa-interview-exercises\DSAUdemyInterviewExercises\Exercises\bin\Debug\net8.0\Exercises.deps.json
+C:\Users\User\OneDrive\Coding\dsa-exercises\udemy-dsa-interview-exercises\DSAUdemyInterviewExercises\Exercises\bin\Debug\net8.0\Exercises.dll
+C:\Users\User\OneDrive\Coding\dsa-exercises\udemy-dsa-interview-exercises\DSAUdemyInterviewExercises\Exercises\bin\Debug\net8.0\Exercises.pdb
+C:\Users\User\OneDrive\Coding\dsa-exercises\udemy-dsa-interview-exercises\DSAUdemyInterviewExercises\Exercises\obj\Debug\net8.0\Exercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Coding\dsa-exercises\udemy-dsa-interview-exercises\DSAUdemyInterviewExercises\Exercises\obj\Debug\net8.0\Exercises.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Coding\dsa-exercises\udemy-dsa-interview-exercises\DSAUdemyInterviewExercises\Exercises\obj\Debug\net8.0\Exercises.AssemblyInfo.cs
+C:\Users\User\OneDrive\Coding\dsa-exercises\udemy-dsa-interview-exercises\DSAUdemyInterviewExercises\Exercises\obj\Debug\net8.0\Exercises.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Coding\dsa-exercises\udemy-dsa-interview-exercises\DSAUdemyInterviewExercises\Exercises\obj\Debug\net8.0\Exercises.sourcelink.json
+C:\Users\User\OneDrive\Coding\dsa-exercises\udemy-dsa-interview-exercises\DSAUdemyInterviewExercises\Exercises\obj\Debug\net8.0\Exercises.dll
+C:\Users\User\OneDrive\Coding\dsa-exercises\udemy-dsa-interview-exercises\DSAUdemyInterviewExercises\Exercises\obj\Debug\net8.0\refint\Exercises.dll
+C:\Users\User\OneDrive\Coding\dsa-exercises\udemy-dsa-interview-exercises\DSAUdemyInterviewExercises\Exercises\obj\Debug\net8.0\Exercises.pdb
+C:\Users\User\OneDrive\Coding\dsa-exercises\udemy-dsa-interview-exercises\DSAUdemyInterviewExercises\Exercises\obj\Debug\net8.0\ref\Exercises.dll
