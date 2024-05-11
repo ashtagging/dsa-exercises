@@ -2,4 +2,6 @@
 
 string testString = "Hi my name is Ashley!";
 
-StringHelper.ReverseString(testString);
+var outputString = StringHelper.ReverseString(testString);
+
+Console.WriteLine(outputString);

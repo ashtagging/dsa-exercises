@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v8.0": {
       "Console/1.0.0": {
+        "dependencies": {
+          "Exercises": "1.0.0"
+        },
         "runtime": {
           "Console.dll": {}
+        }
+      },
+      "Exercises/1.0.0": {
+        "runtime": {
+          "Exercises.dll": {}
         }
       }
     }
   },
   "libraries": {
     "Console/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Exercises/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

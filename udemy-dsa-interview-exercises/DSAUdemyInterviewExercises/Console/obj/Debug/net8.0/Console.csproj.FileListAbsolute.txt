@@ -13,3 +13,7 @@ C:\Users\User\OneDrive\Coding\dsa-exercises\udemy-dsa-interview-exercises\DSAUde
 C:\Users\User\OneDrive\Coding\dsa-exercises\udemy-dsa-interview-exercises\DSAUdemyInterviewExercises\Console\obj\Debug\net8.0\Console.pdb
 C:\Users\User\OneDrive\Coding\dsa-exercises\udemy-dsa-interview-exercises\DSAUdemyInterviewExercises\Console\obj\Debug\net8.0\Console.genruntimeconfig.cache
 C:\Users\User\OneDrive\Coding\dsa-exercises\udemy-dsa-interview-exercises\DSAUdemyInterviewExercises\Console\obj\Debug\net8.0\ref\Console.dll
+C:\Users\User\OneDrive\Coding\dsa-exercises\udemy-dsa-interview-exercises\DSAUdemyInterviewExercises\Console\bin\Debug\net8.0\Exercises.dll
+C:\Users\User\OneDrive\Coding\dsa-exercises\udemy-dsa-interview-exercises\DSAUdemyInterviewExercises\Console\bin\Debug\net8.0\Exercises.pdb
+C:\Users\User\OneDrive\Coding\dsa-exercises\udemy-dsa-interview-exercises\DSAUdemyInterviewExercises\Console\obj\Debug\net8.0\Console.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Coding\dsa-exercises\udemy-dsa-interview-exercises\DSAUdemyInterviewExercises\Console\obj\Debug\net8.0\Console.csproj.CopyComplete
